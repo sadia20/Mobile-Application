@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="WelcomeText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#FF000000</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="SignInAccessText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#FF000000</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="ButtonText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="NewMemberText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#FF000000</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="RegisterNowText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#6C63FF</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="RememberMeText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#FF000000</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="ForgotPasswordText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#6C63FF</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    //for create account screen
+
+    <style name="GetStartedText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#FF000000</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="HeadlineText2" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#FF000000</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="CheckboxText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#FF000000</item>
+        <item name="android:textSize">11sp</item>
+    </style>
+
+    <style name="CheckboxText2" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#6C63FF</item>
+        <item name="android:textSize">11sp</item>
+    </style>
+
+    <style name="CheckboxText3" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#FF000000</item>
+        <item name="android:textSize">11sp</item>
+    </style>
+
+    <style name="CheckboxText4" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#6C63FF</item>
+        <item name="android:textSize">11sp</item>
+    </style>
+
+    <style name="AlreadyMemberText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#FF000000</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="LoginInText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#6C63FF</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+</resources>

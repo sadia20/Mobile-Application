@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="sign_in_bg">#7AC2DC</color>
+    <color name="create_account_bg">#8BB0D0</color>
+    <color name="sign_in_text_color">#00000080</color>
+    <color name="sign_in_shape_bg">#B1B1DC</color>
+    <color name="remember_me_tv">#6C63FF</color>
+    <color name="transparent">#00000000</color>
+    <color name="background">#FFFFFF</color>
+    <color name="detail_button">#979696</color>
+</resources>
